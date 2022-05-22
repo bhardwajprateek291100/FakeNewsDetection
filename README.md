@@ -1,2 +1,2 @@
 # FakeNewsDetection
-Fake News Detection Using Machine Learning
+Detection Of Fake News Using Different Machine Learning Models and Techniques.
